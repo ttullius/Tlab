@@ -37,6 +37,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0003-4425-796X
 superuser: true
 title: Tom Tullius
 user_groups:

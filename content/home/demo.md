@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+    image: static/media/dna.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center

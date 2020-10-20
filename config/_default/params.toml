@@ -100,7 +100,7 @@ address = {street = "Department of Chemistry, Boston University", city = "Boston
 coordinates = {latitude = "42.348625", longitude = "-71.101869"}
 
 # Directions for visitors to locate you.
-directions = "Enter the Life Sciences and Engineering Building, 24 Cummington Mall, and take the stairs to Room 1005 on Floor 10"
+directions = "Enter the Life Sciences and Engineering Building, 24 Cummington Mall, and take the elevator to Room 1005 on Floor 10"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -284,4 +284,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
