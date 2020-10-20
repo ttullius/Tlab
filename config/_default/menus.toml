@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Tullius Lab"
+  name = "about"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "research projects"
+  name = "projects"
   url = "#projects"
   weight = 20
 
@@ -19,12 +19,12 @@
   weight = 30
 
 [[main]]
-  name = "Tom Tullius"
+  name = "Tom"
   url = "#experience"
   weight = 40
 
 [[main]]
-  name = "Tullius group"
+  name = "group"
   url = "people"
   weight = 50
   
