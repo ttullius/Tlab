@@ -2,43 +2,43 @@
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Chemistry
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 1979
+  - course: NIH postdoctoral fellow
+    institution: Columbia University
+    year: 1979-1982
+  - course: BS in Chemistry
+    institution: UCLA
+    year: 1973
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- DNA and RNA structure
+- DNA shape and genome function
+- RNA tertiary structure
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Boston University
+  url: https://www.bu.edu/
+role: Professor of Chemistry
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tomtullius
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ttullius
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Tom Tullius
 user_groups:
 - Principal Investigators
 ---
