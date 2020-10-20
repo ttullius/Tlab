@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Demos
+title: Tullius laboratory at Boston University
 subtitle:
 
 design:
@@ -28,16 +28,11 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **resumé template** for Academic.
+Welcome to **Tlab**.
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
+We develop and use chemical methods to study the structure of nucleic acids.
+The aim of our work is to understand how the structure of DNA and RNA influences biological function.
 
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
+**news**
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+Watch the [video](http://www.birs.ca/events/2015/5-day-workshops/15w5167/videos/watch/201506221730-Tullius.html) of Tom’s lecture in June 2015 at the BIRS-CMO Workshop on “[Rules of Protein-DNA Recognition: Computational and Experimental Advances](http://www.birs.ca/events/2015/5-day-workshops/15w5167)”
