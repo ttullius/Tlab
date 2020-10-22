@@ -52,4 +52,4 @@ Tom Tullius is widely known for introducing a powerful chemistry-based method, h
 
 Tom has been profiled by [The Scientist](https://www.the-scientist.com/uncategorized/radical-thinking-43226).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
