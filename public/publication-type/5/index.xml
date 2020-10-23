@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Tullius laboratory at Boston University</title>
+    <link>/publication-type/5/</link>
+      <atom:link href="/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Mon, 01 Jan 1990 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>5</title>
+      <link>/publication-type/5/</link>
+    </image>
+    
+    <item>
+      <title>Immobile Junctions Suggest New Features of the Structural Chemistry of Recombination</title>
+      <link>/publication/seeman-1990-p-949/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/seeman-1990-p-949/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural studies of DNA through cleavage by the hydroxyl radical</title>
+      <link>/publication/tullius-1989-p-74/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1989-p-74/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

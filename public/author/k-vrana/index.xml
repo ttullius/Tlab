@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Vrana | Tullius laboratory at Boston University</title>
+    <link>/author/k-vrana/</link>
+      <atom:link href="/author/k-vrana/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Vrana</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Fri, 01 Jan 1988 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>K Vrana</title>
+      <link>/author/k-vrana/</link>
+    </image>
+    
+    <item>
+      <title>Mapping functional regions of transcription factor TFIIIA</title>
+      <link>/publication/vrana-1988-p-1977/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/vrana-1988-p-1977/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

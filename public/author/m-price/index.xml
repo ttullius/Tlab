@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Price | Tullius laboratory at Boston University</title>
+    <link>/author/m-price/</link>
+      <atom:link href="/author/m-price/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Price</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M Price</title>
+      <link>/author/m-price/</link>
+    </image>
+    
+    <item>
+      <title>How the structure of an adenine tract depends on sequence context: a new model for the structure of TnAn DNA sequences</title>
+      <link>/publication/price-1993-p-1097/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/price-1993-p-1097/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of the hydroxyl radical and gel electrophoresis to study DNA structure</title>
+      <link>/publication/shafer-1989-p-1966/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/shafer-1989-p-1966/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

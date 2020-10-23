@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J R Levin | Tullius laboratory at Boston University</title>
+    <link>/author/j-r-levin/</link>
+      <atom:link href="/author/j-r-levin/index.xml" rel="self" type="application/rss+xml" />
+    <description>J R Levin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J R Levin</title>
+      <link>/author/j-r-levin/</link>
+    </image>
+    
+    <item>
+      <title>The roles of specific template nucleosides in the formation of stable transcription complexes by Escherichia coli RNA polymerase.</title>
+      <link>/publication/levin-2000-p-1904/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/levin-2000-p-1904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homeodomain proteins: what governs their ability to recognize specific DNA sequences?</title>
+      <link>/publication/anonymous-1995-jj/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-1995-jj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical footprinting</title>
+      <link>/publication/dixon-1991-tu/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/dixon-1991-tu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

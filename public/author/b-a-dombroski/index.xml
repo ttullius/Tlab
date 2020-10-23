@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B A Dombroski | Tullius laboratory at Boston University</title>
+    <link>/author/b-a-dombroski/</link>
+      <atom:link href="/author/b-a-dombroski/index.xml" rel="self" type="application/rss+xml" />
+    <description>B A Dombroski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Tue, 01 Jan 1991 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>B A Dombroski</title>
+      <link>/author/b-a-dombroski/</link>
+    </image>
+    
+    <item>
+      <title>Hydroxyl radical footprinting</title>
+      <link>/publication/dixon-1991-tu/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/dixon-1991-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical footprinting: a high-resolution method for mapping protein-DNA contacts.</title>
+      <link>/publication/anonymous-1987-wv/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-1987-wv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical \&#34;footprinting\&#34;: high-resolution information about DNA-protein contacts and application to lambda repressor and Cro protein.</title>
+      <link>/publication/tullius-1986-tu/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1986-tu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

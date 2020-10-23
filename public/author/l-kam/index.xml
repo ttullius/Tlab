@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Kam | Tullius laboratory at Boston University</title>
+    <link>/author/l-kam/</link>
+      <atom:link href="/author/l-kam/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Kam</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Mon, 01 Jan 1990 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L Kam</title>
+      <link>/author/l-kam/</link>
+    </image>
+    
+    <item>
+      <title>Footprinting protein-DNA complexes with gamma-rays.</title>
+      <link>/publication/hayes-1990-p-2293/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-1990-p-2293/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical footprinting: a high-resolution method for mapping protein-DNA contacts.</title>
+      <link>/publication/anonymous-1987-wv/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-1987-wv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

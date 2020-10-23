@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S E Shadle | Tullius laboratory at Boston University</title>
+    <link>/author/s-e-shadle/</link>
+      <atom:link href="/author/s-e-shadle/index.xml" rel="self" type="application/rss+xml" />
+    <description>S E Shadle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S E Shadle</title>
+      <link>/author/s-e-shadle/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative analysis of electrophoresis data: novel curve fitting methodology and its application to the determination of a protein-DNA binding constant.</title>
+      <link>/publication/shadle-1997-p-1769/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/shadle-1997-p-1769/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

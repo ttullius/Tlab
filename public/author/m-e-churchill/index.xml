@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M E Churchill | Tullius laboratory at Boston University</title>
+    <link>/author/m-e-churchill/</link>
+      <atom:link href="/author/m-e-churchill/index.xml" rel="self" type="application/rss+xml" />
+    <description>M E Churchill</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Fri, 01 Jan 1988 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M E Churchill</title>
+      <link>/author/m-e-churchill/</link>
+    </image>
+    
+    <item>
+      <title>A Holliday recombination intermediate is twofold symmetric.</title>
+      <link>/publication/churchill-1988-p-1199/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/churchill-1988-p-1199/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction and analysis of monomobile DNA junctions.</title>
+      <link>/publication/chen-1988-p-952/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-1988-p-952/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical footprinting: a high-resolution method for mapping protein-DNA contacts.</title>
+      <link>/publication/anonymous-1987-wv/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-1987-wv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

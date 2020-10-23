@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Ober | Tullius laboratory at Boston University</title>
+    <link>/author/douglas-ober/</link>
+      <atom:link href="/author/douglas-ober/index.xml" rel="self" type="application/rss+xml" />
+    <description>Douglas Ober</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Douglas Ober</title>
+      <link>/author/douglas-ober/</link>
+    </image>
+    
+    <item>
+      <title>Experimental maps of DNA structure at nucleotide resolution distinguish intrinsic from protein-induced DNA deformations</title>
+      <link>/publication/azad-2018-eo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/azad-2018-eo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

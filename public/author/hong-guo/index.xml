@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Guo | Tullius laboratory at Boston University</title>
+    <link>/author/hong-guo/</link>
+      <atom:link href="/author/hong-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Guo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hong Guo</title>
+      <link>/author/hong-guo/</link>
+    </image>
+    
+    <item>
+      <title>Gapped DNA is anisotropically bent.</title>
+      <link>/publication/guo-2003-p-1765/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/guo-2003-p-1765/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

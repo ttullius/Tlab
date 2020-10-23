@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. J. Dixon | Tullius laboratory at Boston University</title>
+    <link>/author/w.-j.-dixon/</link>
+      <atom:link href="/author/w.-j.-dixon/index.xml" rel="self" type="application/rss+xml" />
+    <description>W. J. Dixon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>W. J. Dixon</title>
+      <link>/author/w.-j.-dixon/</link>
+    </image>
+    
+    <item>
+      <title>CUP2 binds in a bipartite manner to upstream activation sequence c in the promoter of the yeast copper metallothionein gene</title>
+      <link>/publication/dixon-1996-p-6304/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/dixon-1996-p-6304/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

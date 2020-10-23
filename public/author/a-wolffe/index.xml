@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Wolffe | Tullius laboratory at Boston University</title>
+    <link>/author/a-wolffe/</link>
+      <atom:link href="/author/a-wolffe/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Wolffe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A Wolffe</title>
+      <link>/author/a-wolffe/</link>
+    </image>
+    
+    <item>
+      <title>Structure of DNA in a nucleosome core at high salt concentration and at high temperature</title>
+      <link>/publication/bashkin-1993-p-124/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/bashkin-1993-p-124/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The histone core exerts a dominant constraint on the structure of DNA in a nucleosome</title>
+      <link>/publication/hayes-1991-p-1777/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-1991-p-1777/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A protein-protein interaction is essential for stable complex formation on a 5 S RNA gene</title>
+      <link>/publication/hayes-1989-p-315/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-1989-p-315/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

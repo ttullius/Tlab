@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T J McNeese | Tullius laboratory at Boston University</title>
+    <link>/author/t-j-mcneese/</link>
+      <atom:link href="/author/t-j-mcneese/index.xml" rel="self" type="application/rss+xml" />
+    <description>T J McNeese</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Sun, 01 Jan 1995 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>T J McNeese</title>
+      <link>/author/t-j-mcneese/</link>
+    </image>
+    
+    <item>
+      <title>What species is responsible for strand scission in the reaction of [FeIIEDTA]2- and H2O2 with DNA?</title>
+      <link>/publication/pogozelski-1995-p-4627/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/pogozelski-1995-p-4627/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianyin Zhou | Tullius laboratory at Boston University</title>
+    <link>/author/tianyin-zhou/</link>
+      <atom:link href="/author/tianyin-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianyin Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tianyin Zhou</title>
+      <link>/author/tianyin-zhou/</link>
+    </image>
+    
+    <item>
+      <title>GBshape: a genome browser database for DNA shape annotations.</title>
+      <link>/publication/chiu-2015-kq/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/chiu-2015-kq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

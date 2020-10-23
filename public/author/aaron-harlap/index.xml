@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron Harlap | Tullius laboratory at Boston University</title>
+    <link>/author/aaron-harlap/</link>
+      <atom:link href="/author/aaron-harlap/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aaron Harlap</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Aaron Harlap</title>
+      <link>/author/aaron-harlap/</link>
+    </image>
+    
+    <item>
+      <title>A computational method to search for DNA structural motifs in functional genomic elements.</title>
+      <link>/publication/parker-2011-p-16010/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2011-p-16010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

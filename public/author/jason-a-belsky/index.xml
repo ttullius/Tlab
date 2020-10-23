@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason A Belsky | Tullius laboratory at Boston University</title>
+    <link>/author/jason-a-belsky/</link>
+      <atom:link href="/author/jason-a-belsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jason A Belsky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jason A Belsky</title>
+      <link>/author/jason-a-belsky/</link>
+    </image>
+    
+    <item>
+      <title>Comparative analysis of metazoan chromatin organization</title>
+      <link>/publication/ho-2014-eg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ho-2014-eg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradley E Bernstein | Tullius laboratory at Boston University</title>
+    <link>/author/bradley-e-bernstein/</link>
+      <atom:link href="/author/bradley-e-bernstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bradley E Bernstein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bradley E Bernstein</title>
+      <link>/author/bradley-e-bernstein/</link>
+    </image>
+    
+    <item>
+      <title>Comparative analysis of metazoan chromatin organization</title>
+      <link>/publication/ho-2014-eg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ho-2014-eg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User&#39;s Guide to the Encyclopedia of DNA Elements (ENCODE)</title>
+      <link>/publication/the-encode-project-consortium-2011-p-15506/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/the-encode-project-consortium-2011-p-15506/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

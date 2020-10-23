@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason A Greenbaum | Tullius laboratory at Boston University</title>
+    <link>/author/jason-a-greenbaum/</link>
+      <atom:link href="/author/jason-a-greenbaum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jason A Greenbaum</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jason A Greenbaum</title>
+      <link>/author/jason-a-greenbaum/</link>
+    </image>
+    
+    <item>
+      <title>Construction of a genome-scale structural map at single-nucleotide resolution.</title>
+      <link>/publication/greenbaum-2007-bk/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/greenbaum-2007-bk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of DNA structural motifs in functional genomic elements.</title>
+      <link>/publication/greenbaum-2007-p-3541/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/greenbaum-2007-p-3541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project</title>
+      <link>/publication/crawford-2007-fu/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/crawford-2007-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping nucleic acid structure by hydroxyl radical cleavage.</title>
+      <link>/publication/tullius-2005-p-2117/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-2005-p-2117/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

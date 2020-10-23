@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zarmik Moqtaderi | Tullius laboratory at Boston University</title>
+    <link>/author/zarmik-moqtaderi/</link>
+      <atom:link href="/author/zarmik-moqtaderi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zarmik Moqtaderi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zarmik Moqtaderi</title>
+      <link>/author/zarmik-moqtaderi/</link>
+    </image>
+    
+    <item>
+      <title>A User&#39;s Guide to the Encyclopedia of DNA Elements (ENCODE)</title>
+      <link>/publication/the-encode-project-consortium-2011-p-15506/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/the-encode-project-consortium-2011-p-15506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project</title>
+      <link>/publication/crawford-2007-fu/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/crawford-2007-fu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

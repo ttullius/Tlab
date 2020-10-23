@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M A Price | Tullius laboratory at Boston University</title>
+    <link>/author/m-a-price/</link>
+      <atom:link href="/author/m-a-price/index.xml" rel="self" type="application/rss+xml" />
+    <description>M A Price</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Wed, 01 Jan 1992 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M A Price</title>
+      <link>/author/m-a-price/</link>
+    </image>
+    
+    <item>
+      <title>Using hydroxyl radical to probe DNA structure.</title>
+      <link>/publication/price-1992-p-2785/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/price-1992-p-2785/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Lippard | Tullius laboratory at Boston University</title>
+    <link>/author/s-lippard/</link>
+      <atom:link href="/author/s-lippard/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Lippard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Fri, 01 Jan 1982 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S Lippard</title>
+      <link>/author/s-lippard/</link>
+    </image>
+    
+    <item>
+      <title>Ethidium bromide changes the nuclease-sensitive DNA binding sites of the antitumor drug cis-diamminedichloroplatinum(II)</title>
+      <link>/publication/tullius-1982-p-1406/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1982-p-1406/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cis-Diamminedichloroplatinum(II) binds in a unique manner to oligo(dG)•oligo(dC) sequences in DNA--A new assay using exonuclease III</title>
+      <link>/publication/tullius-1981-p-1570/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1981-p-1570/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inhibition of the BamHI cleavage and unwinding of pBR322 deoxyribonucleic acid by the antitumor drug cis-dichlorodiammineplatinum(II)</title>
+      <link>/publication/ushay-1981-p-516/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>/publication/ushay-1981-p-516/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

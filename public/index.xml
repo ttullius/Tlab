@@ -102,7 +102,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-697182354&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-918567234&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -112,7 +112,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-697182354&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-918567234&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -347,20 +347,6 @@ You found me!
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -534,6 +520,14 @@ Three
     </item>
     
     <item>
+      <title>Experimental maps of DNA structure at nucleotide resolution distinguish intrinsic from protein-induced DNA deformations</title>
+      <link>/publication/azad-2018-eo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/azad-2018-eo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>External Project</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -661,41 +655,739 @@ Three
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A microRNA program in the C. elegans hypodermis couples to intestinal mTORC2/PQM-1 signaling to modulate fat transport.</title>
+      <link>/publication/dowen-2016-fv/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dowen-2016-fv/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Deuterated nucleotides as chemical probes of RNA structure: a detailed protocol for the enzymatic synthesis of a complete set of nucleotides specifically deuterated at ribose carbons</title>
+      <link>/publication/azad-2015-kb/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/azad-2015-kb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GBshape: a genome browser database for DNA shape annotations.</title>
+      <link>/publication/chiu-2015-kq/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/chiu-2015-kq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical probing of RNA with the hydroxyl radical at single-atom resolution</title>
+      <link>/publication/anonymous-2014-cs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-2014-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of metazoan chromatin organization</title>
+      <link>/publication/ho-2014-eg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ho-2014-eg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational method to search for DNA structural motifs in functional genomic elements.</title>
+      <link>/publication/parker-2011-p-16010/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2011-p-16010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A map of minor groove shape and electrostatic potential from hydroxyl radical cleavage patterns of DNA.</title>
+      <link>/publication/bishop-2011-hr/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/bishop-2011-hr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User&#39;s Guide to the Encyclopedia of DNA Elements (ENCODE)</title>
+      <link>/publication/the-encode-project-consortium-2011-p-15506/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/the-encode-project-consortium-2011-p-15506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA shape, genetic codes, and evolution</title>
+      <link>/publication/parker-2011-p-15596/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2011-p-15596/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Constraint on DNA Shape in the Human Genome</title>
+      <link>/publication/tullius-2011-p-16011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-2011-p-16011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local DNA Topography Correlates with Functional Noncoding Regions of the Human Genome</title>
+      <link>/publication/parker-2009-p-12073/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2009-p-12073/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural biology: DNA binding shapes up</title>
+      <link>/publication/tullius-2009-p-12987/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-2009-p-12987/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Footprinting protein–DNA complexes using the hydroxyl radical</title>
+      <link>/publication/anonymous-2008-uw/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-2008-uw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relationship between fine scale DNA structure, GC content, and functional elements in 1% of the human genome</title>
+      <link>/publication/parker-2008-p-11902/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2008-p-11902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of a genome-scale structural map at single-nucleotide resolution.</title>
+      <link>/publication/greenbaum-2007-bk/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/greenbaum-2007-bk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of DNA structural motifs in functional genomic elements.</title>
+      <link>/publication/greenbaum-2007-p-3541/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/greenbaum-2007-p-3541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of discontinuities in the DNA template on abortive initiation and promoter escape by Escherichia coli RNA polymerase</title>
+      <link>/publication/wang-2007-p-5091/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2007-p-5091/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project</title>
+      <link>/publication/crawford-2007-fu/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/crawford-2007-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping nucleic acid structure by hydroxyl radical cleavage.</title>
+      <link>/publication/tullius-2005-p-2117/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-2005-p-2117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platinum anticancer drug damage enforces a particular rotational setting of DNA in nucleosomes.</title>
+      <link>/publication/danford-2005-p-1855/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/danford-2005-p-1855/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Corporation and John Schaefer.</title>
+      <link>/publication/deardorff-2004-p-521/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/deardorff-2004-p-521/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gapped DNA is anisotropically bent.</title>
+      <link>/publication/guo-2003-p-1765/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/guo-2003-p-1765/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A general synthesis of specifically deuterated nucleotides for studies of DNA and RNA</title>
+      <link>/publication/chen-2002-p-1688/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2002-p-1688/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interchange of DNA-binding Modes in the Deformed and Ultrabithorax Homeodomains: A Structural Role for the N-terminal Arm</title>
+      <link>/publication/frazee-2002-p-434/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/frazee-2002-p-434/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calicheamicin−Homeodomain Conjugate as an Efficient, Sequence-Specific DNA Cleavage and Mapping Tool</title>
+      <link>/publication/wu-2000-p-6300/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/wu-2000-p-6300/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution in vivo footprinting of a protein-DNA complex using γ-radiation</title>
+      <link>/publication/anonymous-2000-dl/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-2000-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The roles of specific template nucleosides in the formation of stable transcription complexes by Escherichia coli RNA polymerase.</title>
+      <link>/publication/levin-2000-p-1904/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/levin-2000-p-1904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nucleosome structural features and intrinsic properties of the TATAAACGCC repeat sequence.</title>
+      <link>/publication/widlund-1999-p-2712/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/widlund-1999-p-2712/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The yeast transcription factor Mac1 binds to DNA in a modular fashion.</title>
+      <link>/publication/jamison-mc-daniels-1999-p-622/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/jamison-mc-daniels-1999-p-622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA strand breaking by the hydroxyl radical is governed by the accessible surface areas of the hydrogen atoms of the DNA backbone</title>
+      <link>/publication/balasubramanian-1998-tn/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/balasubramanian-1998-tn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxidative strand scission of nucleic acids: routes initiated by hydrogen abstraction from the sugar moiety</title>
+      <link>/publication/pogozelski-1998-p-663/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/pogozelski-1998-p-663/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The DNA binding specificity of engrailed homeodomain.</title>
+      <link>/publication/draganescu-1998-p-3154/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/draganescu-1998-p-3154/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative analysis of electrophoresis data: novel curve fitting methodology and its application to the determination of a protein-DNA binding constant.</title>
+      <link>/publication/shadle-1997-p-1769/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/shadle-1997-p-1769/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The solution structure of the amino-terminal HHCC domain of HIV-2 integrase: a three-helix bundle stabilized by zinc</title>
+      <link>/publication/eijkelenboom-1997-p-2106/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/eijkelenboom-1997-p-2106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioorganic Chemistry: Nucleic Acids</title>
+      <link>/publication/td-tullius-1996-p-2004/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/td-tullius-1996-p-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUP2 binds in a bipartite manner to upstream activation sequence c in the promoter of the yeast copper metallothionein gene</title>
+      <link>/publication/dixon-1996-p-6304/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/dixon-1996-p-6304/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of the crystallizing agent 2-methyl-2,4-pentanediol on the structure of adenine tract DNA in solution.</title>
+      <link>/publication/ganunis-1996-p-1701/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/ganunis-1996-p-1701/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeting of nucleic acids by iron complexes.</title>
+      <link>/publication/draganescu-1996-p-3487/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/draganescu-1996-p-3487/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical probe and missing nucleoside analysis of Flp recombinase bound to the recombination target sequence.</title>
+      <link>/publication/kimball-1995-p-1174/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1995-p-1174/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleavage by calicheamicin gamma 1I of DNA in a nucleosome formed on the 5S RNA gene of Xenopus borealis.</title>
+      <link>/publication/kuduvalli-1995-p-2048/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/kuduvalli-1995-p-2048/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homeodomain proteins: what governs their ability to recognize specific DNA sequences?</title>
+      <link>/publication/anonymous-1995-jj/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-1995-jj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homeodomains: together again for the first time</title>
+      <link>/publication/tullius-1995-p-2972/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1995-p-2972/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of the Aryl Iodide in the Sequence-Selective Cleavage of DNA by Calicheamicin. Importance of Thermodynamic Binding vs Kinetic Activation in the Cleavage Process</title>
+      <link>/publication/chatterjee-1995-p-6302/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/chatterjee-1995-p-6302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What species is responsible for strand scission in the reaction of [FeIIEDTA]2- and H2O2 with DNA?</title>
+      <link>/publication/pogozelski-1995-p-4627/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/pogozelski-1995-p-4627/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical footprinting of calicheamicin. Relationship of DNA binding to cleavage</title>
+      <link>/publication/mah-1994-p-1622/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>/publication/mah-1994-p-1622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How the structure of an adenine tract depends on sequence context: a new model for the structure of TnAn DNA sequences</title>
+      <link>/publication/price-1993-p-1097/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/price-1993-p-1097/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence-specific cleavage of DNA via nucleophilic attack of hydrogen peroxide, assisted by Flp recombinase</title>
+      <link>/publication/kimball-1993-p-1591/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1993-p-1591/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of DNA in a nucleosome core at high salt concentration and at high temperature</title>
+      <link>/publication/bashkin-1993-p-124/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/bashkin-1993-p-124/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of the TFIIIA-5 S DNA complex.</title>
+      <link>/publication/anonymous-1992-tm/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-1992-tm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using hydroxyl radical to probe DNA structure.</title>
+      <link>/publication/price-1992-p-2785/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/price-1992-p-2785/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinorganic chemistry</title>
+      <link>/publication/tullius-1991-p-1110/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1991-p-1110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA footprinting with the hydroxyl radical</title>
+      <link>/publication/tullius-1991-p-2615/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1991-p-2615/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence from EXAFS for a copper cluster in the metalloregulatory protein CUP2 from yeast</title>
+      <link>/publication/nakagawa-1991-ju/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/nakagawa-1991-ju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical footprinting</title>
+      <link>/publication/dixon-1991-tu/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/dixon-1991-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The histone core exerts a dominant constraint on the structure of DNA in a nucleosome</title>
+      <link>/publication/hayes-1991-p-1777/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-1991-p-1777/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The use of chemical probes to analyze DNA and RNA structures</title>
+      <link>/publication/tullius-1991-p-2706/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1991-p-2706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the Chemistry of the Hydroxyl Radical to Determine Structural Details about DNA and Protein-DNA Complexes</title>
+      <link>/publication/levin-1991-p-2292/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/levin-1991-p-2292/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A single amino acid change in CUP2 alters its mode of DNA binding.</title>
+      <link>/publication/buchman-1990-p-800/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/buchman-1990-p-800/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric structure of a three-arm DNA junction</title>
+      <link>/publication/guo-1990-p-338/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/guo-1990-p-338/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction and analysis of parallel and antiparallel Holliday junctions.</title>
+      <link>/publication/kimball-1990-p-2244/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1990-p-2244/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of drug binding to DNA by hydroxyl radical footprinting. Relationship of distamycin binding sites to DNA structure and positioned nucleosomes on 5S RNA genes of Xenopus</title>
+      <link>/publication/churchill-1990-p-2222/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/churchill-1990-p-2222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Footprinting protein-DNA complexes with gamma-rays.</title>
+      <link>/publication/hayes-1990-p-2293/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-1990-p-2293/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immobile Junctions Suggest New Features of the Structural Chemistry of Recombination</title>
+      <link>/publication/seeman-1990-p-949/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/seeman-1990-p-949/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mode of interaction of the zinc finger protein TFIIIA with a 5S RNA gene of Xenopus</title>
+      <link>/publication/churchill-1990-p-306/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/churchill-1990-p-306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of DNA in a nucleosome.</title>
+      <link>/publication/anonymous-1990-vy/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-1990-vy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A protein-protein interaction is essential for stable complex formation on a 5 S RNA gene</title>
+      <link>/publication/hayes-1989-p-315/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-1989-p-315/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution footprints of the DNA-binding domain of Epstein-Barr virus nuclear antigen 1</title>
+      <link>/publication/kimball-1989-p-1883/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1989-p-1883/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metals and Molecular Biology</title>
+      <link>/publication/tullius-1989-be/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1989-be/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical studies of protein-DNA complexes by footprinting</title>
+      <link>/publication/tullius-1989-p-2648/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1989-p-2648/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural studies of DNA through cleavage by the hydroxyl radical</title>
+      <link>/publication/tullius-1989-p-74/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1989-p-74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The missing nucleoside experiment: a new technique to study recognition of DNA by protein.</title>
+      <link>/publication/hayes-1989-p-3203/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-1989-p-3203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of the hydroxyl radical and gel electrophoresis to study DNA structure</title>
+      <link>/publication/shafer-1989-p-1966/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/shafer-1989-p-1966/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Holliday recombination intermediate is twofold symmetric.</title>
+      <link>/publication/churchill-1988-p-1199/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/churchill-1988-p-1199/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction and analysis of monomobile DNA junctions.</title>
+      <link>/publication/chen-1988-p-952/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-1988-p-952/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA footprinting with hydroxyl radical</title>
+      <link>/publication/tullius-1988-p-2557/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1988-p-2557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping functional regions of transcription factor TFIIIA</title>
+      <link>/publication/vrana-1988-p-1977/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/vrana-1988-p-1977/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural details of an adenine tract that does not cause DNA to bend</title>
+      <link>/publication/burkhoff-1988-p-303/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/burkhoff-1988-p-303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the chemistry of the hydroxyl radical to determine structural details of bent DNA</title>
+      <link>/publication/tullius-1988-p-1239/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1988-p-1239/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical ‘snapshots’ of DNA: using the hydroxyl radical to study the structure of DNA and DNA-protein complexes</title>
+      <link>/publication/tullius-1987-p-2404/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1987-p-2404/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical footprinting: a high-resolution method for mapping protein-DNA contacts.</title>
+      <link>/publication/anonymous-1987-wv/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-1987-wv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The unusual conformation adopted by the adenine tracts in kinetoplast DNA</title>
+      <link>/publication/burkhoff-1987-vv/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>/publication/burkhoff-1987-vv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxyl radical \&#34;footprinting\&#34;: high-resolution information about DNA-protein contacts and application to lambda repressor and Cro protein.</title>
+      <link>/publication/tullius-1986-tu/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1986-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A selenomethionine-containing azurin from an auxotroph of Pseudomonas aeruginosa</title>
+      <link>/publication/frank-1985-p-3263/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>/publication/frank-1985-p-3263/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iron(II) EDTA used to measure the helical twist along any DNA molecule</title>
+      <link>/publication/tullius-1985-p-3168/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1985-p-3168/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethidium bromide changes the nuclease-sensitive DNA binding sites of the antitumor drug cis-diamminedichloroplatinum(II)</title>
+      <link>/publication/tullius-1982-p-1406/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1982-p-1406/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cis-Diamminedichloroplatinum(II) binds in a unique manner to oligo(dG)•oligo(dC) sequences in DNA--A new assay using exonuclease III</title>
+      <link>/publication/tullius-1981-p-1570/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1981-p-1570/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inhibition of the BamHI cleavage and unwinding of pBR322 deoxyribonucleic acid by the antitumor drug cis-dichlorodiammineplatinum(II)</title>
+      <link>/publication/ushay-1981-p-516/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>/publication/ushay-1981-p-516/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Study of the Vanadium Complex in Living Ascidian Blood Cells by X-ray Absorption Spectroscopy</title>
+      <link>/publication/tullius-1980-p-6297/</link>
+      <pubDate>Tue, 01 Jan 1980 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1980-p-6297/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Molybdenum Site of Xanthine Oxidase. Structural Evidence from X-ray Absorption Spectroscopy</title>
+      <link>/publication/tullius-1979-p-6299/</link>
+      <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1979-p-6299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the blue copper site in oxidized azurin by extended x-ray absorption fine structure: Determination of a short Cu—S distance</title>
+      <link>/publication/tullius-1978-p-2233/</link>
+      <pubDate>Sun, 01 Jan 1978 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-1978-p-2233/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Structure of trans-Bis(benzeneselenido)[difluoro-3,3’-(trimethylenedinitrilo)bis(2-pentanoneoximato)borate]rhodium(III)</title>
+      <link>/publication/collman-1976-p-6298/</link>
+      <pubDate>Thu, 01 Jan 1976 00:00:00 +0000</pubDate>
+      <guid>/publication/collman-1976-p-6298/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetics of spontaneous thermal reduction of cis-tetraaquodiamminecobalt(III), cis-diaquobis-(trimethylenediamine)cobalt(III) and 1,2,3-triaquo-N-(2-aminoethyl)-1,3-diaminopropanecobalt(III) cations in hot aqueous perchloric acid</title>
+      <link>/publication/stanley-1973-fd/</link>
+      <pubDate>Mon, 01 Jan 1973 00:00:00 +0000</pubDate>
+      <guid>/publication/stanley-1973-fd/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen C J Parker | Tullius laboratory at Boston University</title>
+    <link>/author/stephen-c-j-parker/</link>
+      <atom:link href="/author/stephen-c-j-parker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen C J Parker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Stephen C J Parker</title>
+      <link>/author/stephen-c-j-parker/</link>
+    </image>
+    
+    <item>
+      <title>GBshape: a genome browser database for DNA shape annotations.</title>
+      <link>/publication/chiu-2015-kq/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/chiu-2015-kq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of metazoan chromatin organization</title>
+      <link>/publication/ho-2014-eg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ho-2014-eg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational method to search for DNA structural motifs in functional genomic elements.</title>
+      <link>/publication/parker-2011-p-16010/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2011-p-16010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A map of minor groove shape and electrostatic potential from hydroxyl radical cleavage patterns of DNA.</title>
+      <link>/publication/bishop-2011-hr/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/bishop-2011-hr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User&#39;s Guide to the Encyclopedia of DNA Elements (ENCODE)</title>
+      <link>/publication/the-encode-project-consortium-2011-p-15506/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/the-encode-project-consortium-2011-p-15506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA shape, genetic codes, and evolution</title>
+      <link>/publication/parker-2011-p-15596/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2011-p-15596/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Constraint on DNA Shape in the Human Genome</title>
+      <link>/publication/tullius-2011-p-16011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tullius-2011-p-16011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local DNA Topography Correlates with Functional Noncoding Regions of the Human Genome</title>
+      <link>/publication/parker-2009-p-12073/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2009-p-12073/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relationship between fine scale DNA structure, GC content, and functional elements in 1% of the human genome</title>
+      <link>/publication/parker-2008-p-11902/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/parker-2008-p-11902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of DNA structural motifs in functional genomic elements.</title>
+      <link>/publication/greenbaum-2007-p-3541/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/greenbaum-2007-p-3541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project</title>
+      <link>/publication/crawford-2007-fu/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/crawford-2007-fu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

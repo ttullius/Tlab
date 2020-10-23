@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H Guo | Tullius laboratory at Boston University</title>
+    <link>/author/h-guo/</link>
+      <atom:link href="/author/h-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>H Guo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H Guo</title>
+      <link>/author/h-guo/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative analysis of electrophoresis data: novel curve fitting methodology and its application to the determination of a protein-DNA binding constant.</title>
+      <link>/publication/shadle-1997-p-1769/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/shadle-1997-p-1769/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of the crystallizing agent 2-methyl-2,4-pentanediol on the structure of adenine tract DNA in solution.</title>
+      <link>/publication/ganunis-1996-p-1701/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/ganunis-1996-p-1701/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

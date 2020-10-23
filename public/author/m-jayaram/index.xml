@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Jayaram | Tullius laboratory at Boston University</title>
+    <link>/author/m-jayaram/</link>
+      <atom:link href="/author/m-jayaram/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Jayaram</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Sun, 01 Jan 1995 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M Jayaram</title>
+      <link>/author/m-jayaram/</link>
+    </image>
+    
+    <item>
+      <title>Chemical probe and missing nucleoside analysis of Flp recombinase bound to the recombination target sequence.</title>
+      <link>/publication/kimball-1995-p-1174/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1995-p-1174/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence-specific cleavage of DNA via nucleophilic attack of hydrogen peroxide, assisted by Flp recombinase</title>
+      <link>/publication/kimball-1993-p-1591/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1993-p-1591/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

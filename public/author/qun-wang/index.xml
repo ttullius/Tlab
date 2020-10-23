@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qun Wang | Tullius laboratory at Boston University</title>
+    <link>/author/qun-wang/</link>
+      <atom:link href="/author/qun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qun Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Qun Wang</title>
+      <link>/author/qun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Effects of discontinuities in the DNA template on abortive initiation and promoter escape by Escherichia coli RNA polymerase</title>
+      <link>/publication/wang-2007-p-5091/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2007-p-5091/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platinum anticancer drug damage enforces a particular rotational setting of DNA in nucleosomes.</title>
+      <link>/publication/danford-2005-p-1855/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/danford-2005-p-1855/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert N Azad | Tullius laboratory at Boston University</title>
+    <link>/author/robert-n-azad/</link>
+      <atom:link href="/author/robert-n-azad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert N Azad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Robert N Azad</title>
+      <link>/author/robert-n-azad/</link>
+    </image>
+    
+    <item>
+      <title>Experimental maps of DNA structure at nucleotide resolution distinguish intrinsic from protein-induced DNA deformations</title>
+      <link>/publication/azad-2018-eo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/azad-2018-eo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deuterated nucleotides as chemical probes of RNA structure: a detailed protocol for the enzymatic synthesis of a complete set of nucleotides specifically deuterated at ribose carbons</title>
+      <link>/publication/azad-2015-kb/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/azad-2015-kb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical probing of RNA with the hydroxyl radical at single-atom resolution</title>
+      <link>/publication/anonymous-2014-cs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/anonymous-2014-cs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

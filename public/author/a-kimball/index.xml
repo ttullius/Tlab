@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Kimball | Tullius laboratory at Boston University</title>
+    <link>/author/a-kimball/</link>
+      <atom:link href="/author/a-kimball/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Kimball</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas D. Tullius</copyright><lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A Kimball</title>
+      <link>/author/a-kimball/</link>
+    </image>
+    
+    <item>
+      <title>Sequence-specific cleavage of DNA via nucleophilic attack of hydrogen peroxide, assisted by Flp recombinase</title>
+      <link>/publication/kimball-1993-p-1591/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1993-p-1591/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction and analysis of parallel and antiparallel Holliday junctions.</title>
+      <link>/publication/kimball-1990-p-2244/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1990-p-2244/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immobile Junctions Suggest New Features of the Structural Chemistry of Recombination</title>
+      <link>/publication/seeman-1990-p-949/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/seeman-1990-p-949/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution footprints of the DNA-binding domain of Epstein-Barr virus nuclear antigen 1</title>
+      <link>/publication/kimball-1989-p-1883/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/kimball-1989-p-1883/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
