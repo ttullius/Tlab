@@ -19,15 +19,15 @@ design:
   columns: "1"
   background:
     image: static/media/dna.jpg
-    image_darken: 0.6
-    image_parallax: true
+    image_darken: 0.3
+    image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-
+{{< figure library="true" src="dna.jpg" title="" >}}
 Welcome to **Tlab**.
 
 We develop and use chemical methods to study the structure of nucleic acids.

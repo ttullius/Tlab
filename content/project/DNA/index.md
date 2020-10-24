@@ -2,7 +2,7 @@
 date: ""
 external_link: ""
 image:
-  caption: 
+  caption: "*The enhanceosome DNA molecule.* This X-ray structure shows the dramatic variation in groove shape that a natural DNA molecule can adopt."
   focal_point: Smart
 links:
 - icon: twitter
@@ -12,14 +12,14 @@ links:
 slides:
 summary: DNA shape and protein recognition
 tags:
-- "DNA shape"
+- "DNA"
 title: a chemical map of DNA shape
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
+{{< figure src="enhance.png" title="**The enhanceosome DNA molecule.** This X-ray structure shows the dramatic variation in groove shape that a natural DNA molecule can adopt." >}}
 Typical analyses treat DNA sequences merely as strings of letters, without considering the effect of nucleotide sequence on local DNA structure. Recent work demonstrating that many DNA binding proteins exploit subtle differences in minor groove shape (and the accompanying variation in electrostatic potential) for recognition and binding provides compelling motivation for considering DNA shape in the analysis of protein binding sites in the human genome. 
 
 The Tullius lab has developed a structural method that is well suited for this aim. This method takes advantage of the sensitivity of the hydroxyl radical to local DNA structure. The hydroxyl radical, an extremely reactive free radical, attacks deoxyribose residues in DNA and cleaves the DNA backbone at the site of reaction. The Tullius lab has shown that the extent of cleavage of a given nucleotide in duplex DNA depends on the solvent-accessible surface area of that nucleotide. Thus the cleavage pattern represents a topographical map of the shape of the surface of a DNA molecule. This chemical probe method is ideal for the purpose of characterizing the structures of DNA sequences in solution.

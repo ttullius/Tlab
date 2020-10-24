@@ -12,14 +12,14 @@ links:
 slides: 
 summary: a chemical probe of RNA structure at single-atom resolution
 tags:
-- RNA structure
-title: RNA
+- RNA
+title: A chemical probe of RNA structure at single-atom resolution
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
+{{< figure src="srl.png" title="**The sarcin/ricin loop (SRL) RNA molecule.** Colored in yellow are the ribose H5’/H5” hydrogen atoms that our work showed are abstracted by the hydroxyl radical." >}}
 While RNA participates in nearly every aspect of cellular function, structural knowledge for most RNAs ends at their nucleotide sequence. This presents a challenge, because we know that biological function depends on three-dimensional structure.
 
 Chemical and enzymatic probe experiments have been widely used to provide information on RNA structure. RNA is ideal for such experiments because of the hierarchical formation of secondary and tertiary structure that produces the functional three-dimensional structure of the RNA. There are now many experimental methods available for mapping RNA secondary structure (regions of sequence that are base-paired versus present in unpaired loops). 
