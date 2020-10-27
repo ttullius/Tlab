@@ -1,19 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Construction and analysis of monomobile DNA junctions.
+title: Construction and analysis of monomobile DNA junctions
 subtitle: ''
 summary: ''
 authors:
-- Thomas D Tullius
 - J H Chen
 - M E Churchill
+- Thomas D Tullius
 - N R Kallenbach
 - N C Seeman
-tags: []
+tags:
+- '"DNA junction"'
+- '"DNA structure"'
 categories: []
 date: '1988-01-01'
-lastmod: 2020-10-21T20:42:06-04:00
+lastmod: 2020-10-27T15:44:34-04:00
 featured: false
 draft: false
 
@@ -31,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:06.319960Z'
+publishDate: '2020-10-27T19:44:34.714696Z'
 publication_types:
 - '2'
 abstract: Immobile DNA junctions are complexes of oligomeric DNA strands that interact

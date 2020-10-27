@@ -1,21 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Construction and analysis of parallel and antiparallel Holliday junctions.
+title: Construction and analysis of parallel and antiparallel Holliday junctions
 subtitle: ''
 summary: ''
 authors:
-- Thomas D Tullius
 - A Kimball
 - Q Guo
 - M Lu
 - R P Cunningham
 - N R Kallenbach
 - N C Seeman
-tags: []
+- Thomas D Tullius
+tags:
+- '"DNA junction"'
+- '"DNA structure"'
 categories: []
 date: '1990-01-01'
-lastmod: 2020-10-21T20:42:03-04:00
+lastmod: 2020-10-27T15:44:32-04:00
 featured: false
 draft: false
 
@@ -33,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:03.772024Z'
+publishDate: '2020-10-27T19:44:32.341158Z'
 publication_types:
 - '2'
 abstract: The Holliday junction is a four-stranded DNA intermediate that arises during

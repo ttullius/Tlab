@@ -2,19 +2,22 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Platinum anticancer drug damage enforces a particular rotational setting of
-  DNA in nucleosomes.
+  DNA in nucleosomes
 subtitle: ''
 summary: ''
 authors:
 - Andrew J Danford
-- Thomas D Tullius
 - Dong Wang
 - Qun Wang
+- Thomas D Tullius
 - Stephen J Lippard
-tags: []
+tags:
+- '"platinum"'
+- '"nucleosome"'
+- '"hydroxyl radical footprinting"'
 categories: []
 date: '2005-01-01'
-lastmod: 2020-10-21T20:41:57-04:00
+lastmod: 2020-10-27T15:44:25-04:00
 featured: false
 draft: false
 
@@ -32,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:57.164897Z'
+publishDate: '2020-10-27T19:44:25.729464Z'
 publication_types:
 - '2'
 abstract: We constructed two site-specifically modified nucleosomes containing an

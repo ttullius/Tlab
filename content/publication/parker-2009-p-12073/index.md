@@ -7,15 +7,15 @@ subtitle: ''
 summary: ''
 authors:
 - Stephen C J Parker
-- Thomas D Tullius
 - Loren Hansen
 - Hatice Ozel Abaan
+- Thomas D Tullius
 - Elliott H Margulies
 tags:
-- '"TT talk"'
+- '"DNA shape"'
 categories: []
 date: '2009-01-01'
-lastmod: 2020-10-21T20:41:55-04:00
+lastmod: 2020-10-27T15:44:24-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:55.665029Z'
+publishDate: '2020-10-27T19:44:24.166432Z'
 publication_types:
 - '2'
 abstract: The three-dimensional molecular structure of DNA, specifically the shape

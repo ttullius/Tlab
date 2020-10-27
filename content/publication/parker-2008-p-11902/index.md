@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Stephen C J Parker
-- Thomas D Tullius
 - Elliott H Margulies
+- Thomas D Tullius
 tags: []
 categories: []
 date: '2008-01-01'
-lastmod: 2020-10-21T20:41:56-04:00
+lastmod: 2020-10-27T15:44:24-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:56.165488Z'
+publishDate: '2020-10-27T19:44:24.700847Z'
 publication_types:
 - '2'
 abstract: GC content has been shown to be an important aspect of human genomic function.  Extending  beyond

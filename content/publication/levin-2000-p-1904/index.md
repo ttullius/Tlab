@@ -2,18 +2,19 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: The roles of specific template nucleosides in the formation of stable transcription
-  complexes by Escherichia coli RNA polymerase.
+  complexes by Escherichia coli RNA polymerase
 subtitle: ''
 summary: ''
 authors:
 - J R Levin
-- Thomas D Tullius
 - J J Blake
 - R A Ganunis
-tags: []
+- Thomas D Tullius
+tags:
+- '"missing nucleoside"'
 categories: []
 date: '2000-01-01'
-lastmod: 2020-10-21T20:41:58-04:00
+lastmod: 2020-10-27T15:44:27-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:58.366426Z'
+publishDate: '2020-10-27T19:44:26.958115Z'
 publication_types:
 - '2'
 abstract: We have examined the effects of removing individual template nucleosides

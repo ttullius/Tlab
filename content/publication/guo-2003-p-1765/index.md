@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Gapped DNA is anisotropically bent.
+title: Gapped DNA is anisotropically bent
 subtitle: ''
 summary: ''
 authors:
 - Hong Guo
 - Thomas D Tullius
 tags:
-- '"TT talk"'
+- '"DNA structure"'
 categories: []
 date: '2003-01-01'
-lastmod: 2020-10-21T20:41:57-04:00
+lastmod: 2020-10-27T15:44:26-04:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:57.541359Z'
+publishDate: '2020-10-27T19:44:26.042672Z'
 publication_types:
 - '2'
 abstract: Ionizing radiation damages DNA in several ways, including through formation

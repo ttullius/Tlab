@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Structure of the TFIIIA-5 S DNA complex.
+title: Structure of the TFIIIA-5 S DNA complex
 subtitle: ''
 summary: ''
 authors:
 - J J Hayes
 - Thomas D Tullius
 tags:
-- '"grant OH seq"'
-- '"TT talk"'
+- '"missing nucleoside"'
+- '"hydroxyl radical footprinting"'
+- '"DNA-protein"'
 categories: []
 date: '1992-01-01'
-lastmod: 2020-10-21T20:42:02-04:00
+lastmod: 2020-10-27T15:44:30-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:01.962933Z'
+publishDate: '2020-10-27T19:44:30.506854Z'
 publication_types:
 - '2'
 abstract: The missing-nucleoside experiment, a recently developed approach for determining

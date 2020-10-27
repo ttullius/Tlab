@@ -340,10 +340,11 @@ authors:
 - Baoli Zhu
 - Pieter J de Jong
 - The ENCODE Project Consortium
-tags: []
+tags:
+- '"ENCODE"'
 categories: []
 date: '2007-01-01'
-lastmod: 2020-10-21T20:41:56-04:00
+lastmod: 2020-10-27T15:44:25-04:00
 featured: false
 draft: false
 
@@ -361,7 +362,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:56.830131Z'
+publishDate: '2020-10-27T19:44:25.389169Z'
 publication_types:
 - '2'
 abstract: We report the generation and analysis of functional data from multiple,

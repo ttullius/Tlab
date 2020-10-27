@@ -13,10 +13,12 @@ authors:
 - Sergey V Nuzhdin
 - Thomas D Tullius
 - Remo Rohs
-tags: []
+tags:
+- '"DNA shape"'
+- '"ORChID"'
 categories: []
 date: '2015-01-01'
-lastmod: 2020-10-21T20:41:54-04:00
+lastmod: 2020-10-27T15:44:22-04:00
 featured: false
 draft: false
 
@@ -34,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:54.203709Z'
+publishDate: '2020-10-27T19:44:22.743185Z'
 publication_types:
 - '2'
 abstract: Many regulatory mechanisms require a high degree of specificity in protein-DNA

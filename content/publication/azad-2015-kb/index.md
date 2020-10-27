@@ -11,10 +11,11 @@ authors:
 - Shakti Ingle
 - Thomas D Tullius
 tags:
-- '"grant NSF RNA"'
+- '"RNA"'
+- '"deuterated nucleotides"'
 categories: []
 date: '2015-01-01'
-lastmod: 2020-10-21T20:41:54-04:00
+lastmod: 2020-10-27T15:44:22-04:00
 featured: false
 draft: false
 
@@ -32,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:54.010814Z'
+publishDate: '2020-10-27T19:44:22.581272Z'
 publication_types:
 - '2'
 abstract: 'We describe here a detailed protocol for the synthesis of ribonucleotides

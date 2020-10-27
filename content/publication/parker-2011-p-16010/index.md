@@ -2,17 +2,17 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A computational method to search for DNA structural motifs in functional genomic
-  elements.
+  elements
 subtitle: ''
 summary: ''
 authors:
-- Thomas D Tullius
 - Stephen C J Parker
 - Aaron Harlap
+- Thomas D Tullius
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2020-10-21T20:41:54-04:00
+lastmod: 2020-10-27T15:44:23-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:54.739446Z'
+publishDate: '2020-10-27T19:44:23.292684Z'
 publication_types:
 - '2'
 abstract: The rapidly increasing availability of DNA sequence data from modern high-throughput

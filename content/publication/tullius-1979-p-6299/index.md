@@ -10,10 +10,11 @@ authors:
 - D M Kurtz
 - Stephen Conradson
 - Keith O Hodgson
-tags: []
+tags:
+- '"EXAFS"'
 categories: []
 date: '1979-01-01'
-lastmod: 2020-10-21T20:42:08-04:00
+lastmod: 2020-10-27T15:44:37-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:08.811718Z'
+publishDate: '2020-10-27T19:44:37.400969Z'
 publication_types:
 - '2'
 abstract: ''

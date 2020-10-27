@@ -8,12 +8,14 @@ summary: ''
 authors:
 - Minwan Wu
 - Doris Stoermer
-- Thomas D Tullius
 - Craig A Townsend
-tags: []
+- Thomas D Tullius
+tags:
+- '"calicheamicin"'
+- '"drug-DNA"'
 categories: []
 date: '2000-01-01'
-lastmod: 2020-10-21T20:41:58-04:00
+lastmod: 2020-10-27T15:44:26-04:00
 featured: false
 draft: false
 
@@ -31,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:58.064130Z'
+publishDate: '2020-10-27T19:44:26.636663Z'
 publication_types:
 - '2'
 abstract: ''

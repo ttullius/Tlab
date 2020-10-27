@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1987-01-01'
-lastmod: 2020-10-21T20:42:07-04:00
+lastmod: 2020-10-27T15:44:35-04:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:07.139771Z'
+publishDate: '2020-10-27T19:44:35.552290Z'
 publication_types:
 - '2'
 abstract: Details of DNA structure are revealed by a new chemical method that makes

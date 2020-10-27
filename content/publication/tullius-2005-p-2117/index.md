@@ -8,12 +8,10 @@ authors:
 - Thomas D Tullius
 - Jason A Greenbaum
 tags:
-- '"grant NSF RNA"'
-- '"paper SRL"'
-- '"paper SRL NAR refs"'
+- '"RNA"'
 categories: []
 date: '2005-01-01'
-lastmod: 2020-10-21T20:41:57-04:00
+lastmod: 2020-10-27T15:44:25-04:00
 featured: false
 draft: false
 
@@ -31,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:57.015623Z'
+publishDate: '2020-10-27T19:44:25.566782Z'
 publication_types:
 - '2'
 abstract: Hydroxyl radical footprinting is a widely used method for following the

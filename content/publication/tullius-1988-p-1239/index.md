@@ -8,15 +8,13 @@ summary: ''
 authors:
 - Thomas D Tullius
 - Amanda Burkhoff
-- W K Olson
-- W Olson
-- M Sarma
-- R Sarma
-- M Sundaralingam
-tags: []
+tags:
+- '"A-tract DNA"'
+- '"DNA shape"'
+- '"DNA structure"'
 categories: []
 date: '1988-01-01'
-lastmod: 2020-10-21T20:42:07-04:00
+lastmod: 2020-10-27T15:44:35-04:00
 featured: false
 draft: false
 
@@ -34,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:06.981944Z'
+publishDate: '2020-10-27T19:44:35.394909Z'
 publication_types:
 - '1'
 abstract: ''
-publication: ''
+publication: '*Structure and expression:, Volume 3: DNA bending and curvature*'
 ---

@@ -14,10 +14,12 @@ authors:
 - B Kemper
 - Richard Cunningham
 - N Kallenbach
-tags: []
+tags:
+- '"DNA junction"'
+- '"DNA structure"'
 categories: []
 date: '1990-01-01'
-lastmod: 2020-10-21T20:42:04-04:00
+lastmod: 2020-10-27T15:44:32-04:00
 featured: false
 draft: false
 
@@ -35,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:04.268907Z'
+publishDate: '2020-10-27T19:44:32.817563Z'
 publication_types:
 - '5'
 abstract: Immobile Junctions Suggest New Features of the Structural Chemistry of Recombination

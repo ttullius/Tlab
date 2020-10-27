@@ -1,19 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Role of the Aryl Iodide in the Sequence-Selective Cleavage of DNA by Calicheamicin.
-  Importance of Thermodynamic Binding vs Kinetic Activation in the Cleavage Process
+title: The role of the aryl iodide in the sequence-selective cleavage of DNA by Calicheamicin.
+  Importance of thermodynamic binding vs kinetic activation in the cleavage process
 subtitle: ''
 summary: ''
 authors:
 - Moneesh Chatterjee
 - Stanley C Mah
-- Craig A Townsend
 - Thomas D Tullius
-tags: []
+- Craig A Townsend
+tags:
+- '"calicheamicin"'
+- '"drug-DNA"'
 categories: []
 date: '1995-01-01'
-lastmod: 2020-10-21T20:42:01-04:00
+lastmod: 2020-10-27T15:44:29-04:00
 featured: false
 draft: false
 
@@ -31,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:00.996471Z'
+publishDate: '2020-10-27T19:44:29.603489Z'
 publication_types:
 - '2'
 abstract: Calicheamicin yl' (CLMyl') is one of the diynene antitumor antibiotics known

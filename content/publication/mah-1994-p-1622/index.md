@@ -9,10 +9,13 @@ authors:
 - S Mah
 - C Townsend
 - Thomas D Tullius
-tags: []
+tags:
+- '"calicheamicin"'
+- '"hydroxyl radical footprinting"'
+- '"drug-DNA"'
 categories: []
 date: '1994-01-01'
-lastmod: 2020-10-21T20:42:01-04:00
+lastmod: 2020-10-27T15:44:30-04:00
 featured: false
 draft: false
 
@@ -30,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:01.314839Z'
+publishDate: '2020-10-27T19:44:29.897942Z'
 publication_types:
 - '2'
 abstract: The binding to DNA by calicheamicin epsilon (CLM epsilon), the rearranged

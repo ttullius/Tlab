@@ -10,10 +10,12 @@ authors:
 - Mair Churchill
 - Jeffrey Hayes
 - Thomas D Tullius
-tags: []
+tags:
+- '"drug-DNA"'
+- '"hydroxyl radical footprinting"'
 categories: []
 date: '1990-01-01'
-lastmod: 2020-10-21T20:42:04-04:00
+lastmod: 2020-10-27T15:44:32-04:00
 featured: false
 draft: false
 
@@ -31,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:03.938035Z'
+publishDate: '2020-10-27T19:44:32.495904Z'
 publication_types:
 - '2'
 abstract: We report the use of hydroxyl radical footprinting to analyze the interaction

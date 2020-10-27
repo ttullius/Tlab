@@ -2,20 +2,22 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Quantitative analysis of electrophoresis data: novel curve fitting methodology
-  and its application to the determination of a protein-DNA binding constant.'
+  and its application to the determination of a protein-DNA binding constant'
 subtitle: ''
 summary: ''
 authors:
-- Thomas D Tullius
 - S E Shadle
 - D F Allen
 - H Guo
 - W K Pogozelski
 - J S Bashkin
-tags: []
+- Thomas D Tullius
+tags:
+- '"DNA-protein"'
+- '"hydroxyl radical footprinting"'
 categories: []
 date: '1997-01-01'
-lastmod: 2020-10-21T20:41:59-04:00
+lastmod: 2020-10-27T15:44:28-04:00
 featured: false
 draft: false
 
@@ -33,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:59.349807Z'
+publishDate: '2020-10-27T19:44:27.951584Z'
 publication_types:
 - '2'
 abstract: A computer program, GelExplorer, which uses a new methodology for obtaining

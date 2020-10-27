@@ -9,10 +9,11 @@ authors:
 - Jeffrey Hayes
 - Thomas D Tullius
 - A Wolffe
-tags: []
+tags:
+- '"hydroxyl radical footprinting"'
 categories: []
 date: '1989-01-01'
-lastmod: 2020-10-21T20:42:05-04:00
+lastmod: 2020-10-27T15:44:33-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:04.761542Z'
+publishDate: '2020-10-27T19:44:33.320528Z'
 publication_types:
 - '2'
 abstract: Stable complex formation on a Xenopus somatic 5 S RNA gene requires protein-protein

@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Popular Topics
+title: Tag Cloud
 subtitle:
 
 content:

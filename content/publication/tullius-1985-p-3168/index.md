@@ -8,10 +8,11 @@ authors:
 - Thomas D Tullius
 - Beth Dombroski
 tags:
-- '"TT talk"'
+- '"DNA structure"'
+- '"DNA shape"'
 categories: []
 date: '1985-01-01'
-lastmod: 2020-10-21T20:42:08-04:00
+lastmod: 2020-10-27T15:44:36-04:00
 featured: false
 draft: false
 
@@ -29,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:07.916135Z'
+publishDate: '2020-10-27T19:44:36.459604Z'
 publication_types:
 - '2'
 abstract: A new method has been devised to measure the number of base pairs per helical

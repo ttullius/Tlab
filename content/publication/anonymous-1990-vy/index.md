@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The structure of DNA in a nucleosome.
+title: The structure of DNA in a nucleosome
 subtitle: ''
 summary: ''
 authors:
@@ -9,11 +9,11 @@ authors:
 - T D Tullius
 - A P Wolffe
 tags:
-- '"grant OH seq"'
-- '"TT talk"'
+- '"nucleosome"'
+- '"hydroxyl radical footprinting"'
 categories: []
 date: '1990-01-01'
-lastmod: 2020-10-21T20:42:04-04:00
+lastmod: 2020-10-27T15:44:33-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:04.604681Z'
+publishDate: '2020-10-27T19:44:33.117327Z'
 publication_types:
 - '2'
 abstract: We describe the application of the hydroxyl radical footprinting technique

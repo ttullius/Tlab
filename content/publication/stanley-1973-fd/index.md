@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '1973-01-01'
-lastmod: 2020-10-21T20:42:09-04:00
+lastmod: 2020-10-27T15:44:38-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:09.318480Z'
+publishDate: '2020-10-27T19:44:37.955287Z'
 publication_types:
 - '2'
 abstract: The spontaneous thermal reduction of cis-Co(NH3)2(OH2)43+ and cis-Co(tmd)2(OH2)23+

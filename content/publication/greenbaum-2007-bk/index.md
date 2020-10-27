@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Construction of a genome-scale structural map at single-nucleotide resolution.
+title: Construction of a genome-scale structural map at single-nucleotide resolution
 subtitle: ''
 summary: ''
 authors:
@@ -9,11 +9,10 @@ authors:
 - Bo Pang
 - Thomas D Tullius
 tags:
-- '"grant OH seq"'
-- '"TT talk"'
+- '"ORChID"'
 categories: []
 date: '2007-01-01'
-lastmod: 2020-10-21T20:41:56-04:00
+lastmod: 2020-10-27T15:44:25-04:00
 featured: false
 draft: false
 
@@ -31,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:56.334128Z'
+publishDate: '2020-10-27T19:44:24.856981Z'
 publication_types:
 - '2'
 abstract: Few methods are available for mapping the local structure of DNA throughout

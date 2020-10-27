@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Bioorganic Chemistry: Nucleic Acids'
+title: Chemical mapping of nucleic acid conformation
 subtitle: ''
 summary: ''
 authors:
@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1996-01-01'
-lastmod: 2020-10-21T20:41:59-04:00
+lastmod: 2020-10-27T15:44:28-04:00
 featured: false
 draft: false
 
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:41:59.676693Z'
+publishDate: '2020-10-27T19:44:28.314495Z'
 publication_types:
 - '6'
 abstract: ''
-publication: ''
+publication: '*Bioorganic Chemistry: Nucleic Acids*'
 ---

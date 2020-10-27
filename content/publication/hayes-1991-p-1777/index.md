@@ -10,10 +10,13 @@ authors:
 - J Bashkin
 - Thomas D Tullius
 - A Wolffe
-tags: []
+tags:
+- '"nucleosome"'
+- '"A-tract DNA"'
+- '"hydroxyl radical footprinting"'
 categories: []
 date: '1991-01-01'
-lastmod: 2020-10-21T20:42:03-04:00
+lastmod: 2020-10-27T15:44:31-04:00
 featured: false
 draft: false
 
@@ -31,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:02.962417Z'
+publishDate: '2020-10-27T19:44:31.496633Z'
 publication_types:
 - '2'
 abstract: We have examined the structures of unique sequence, A/T-rich DNAs that are

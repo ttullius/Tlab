@@ -10,10 +10,12 @@ authors:
 - Mair Churchill
 - Thomas D Tullius
 - N Kallenbach
-tags: []
+tags:
+- '"DNA junction"'
+- '"DNA structure"'
 categories: []
 date: '1990-01-01'
-lastmod: 2020-10-21T20:42:03-04:00
+lastmod: 2020-10-27T15:44:32-04:00
 featured: false
 draft: false
 
@@ -31,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:03.607584Z'
+publishDate: '2020-10-27T19:44:32.160820Z'
 publication_types:
 - '2'
 abstract: 'We present here experimental evidence that three-arm branched DNA molecules

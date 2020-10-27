@@ -2,17 +2,19 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Cleavage by calicheamicin gamma 1I of DNA in a nucleosome formed on the 5S
-  RNA gene of Xenopus borealis.
+  RNA gene of Xenopus borealis
 subtitle: ''
 summary: ''
 authors:
 - P N Kuduvalli
 - C A Townsend
 - Thomas D Tullius
-tags: []
+tags:
+- '"calicheamicin"'
+- '"drug-DNA"'
 categories: []
 date: '1995-01-01'
-lastmod: 2020-10-21T20:42:00-04:00
+lastmod: 2020-10-27T15:44:29-04:00
 featured: false
 draft: false
 
@@ -30,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:00.497563Z'
+publishDate: '2020-10-27T19:44:29.102810Z'
 publication_types:
 - '2'
 abstract: The cleavage by calicheamicin gamma 1I (CLM gamma 1I) of a nucleosome formed

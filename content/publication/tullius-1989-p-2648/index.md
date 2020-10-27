@@ -6,10 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Thomas D Tullius
-tags: []
+tags:
+- '"DNA-protein"'
 categories: []
 date: '1989-01-01'
-lastmod: 2020-10-21T20:42:05-04:00
+lastmod: 2020-10-27T15:44:33-04:00
 featured: false
 draft: false
 
@@ -27,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:05.466817Z'
+publishDate: '2020-10-27T19:44:33.842784Z'
 publication_types:
 - '2'
 abstract: ''

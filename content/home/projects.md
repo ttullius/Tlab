@@ -27,7 +27,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "DNA"
-    tag = "DNA"
+    tag = "DNA shape"
   
   [[content.filter_button]]
     name = "RNA"

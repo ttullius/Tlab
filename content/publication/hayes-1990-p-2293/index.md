@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Footprinting protein-DNA complexes with gamma-rays.
+title: Footprinting protein-DNA complexes with gamma-rays
 subtitle: ''
 summary: ''
 authors:
@@ -9,10 +9,11 @@ authors:
 - L Kam
 - Thomas D Tullius
 tags:
-- '"TT talk"'
+- '"hydroxyl radical footprinting"'
+- '"gamma radiation"'
 categories: []
 date: '1990-01-01'
-lastmod: 2020-10-21T20:42:04-04:00
+lastmod: 2020-10-27T15:44:32-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:04.114149Z'
+publishDate: '2020-10-27T19:44:32.661077Z'
 publication_types:
 - '2'
 abstract: ''

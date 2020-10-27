@@ -1,5 +1,5 @@
 ---
-date: ""
+date: "2020-10-27"
 external_link: ""
 image:
   caption: "*The enhanceosome DNA molecule.* This X-ray structure shows the dramatic variation in groove shape that a natural DNA molecule can adopt."
@@ -12,8 +12,8 @@ links:
 slides:
 summary: DNA shape and protein recognition
 tags:
-- "DNA"
-title: a chemical map of DNA shape
+- "DNA shape"
+title: A chemical map of DNA shape
 url_code: ""
 url_pdf: ""
 url_slides: ""

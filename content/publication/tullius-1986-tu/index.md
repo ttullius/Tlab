@@ -2,18 +2,17 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Hydroxyl radical \"footprinting\": high-resolution information about DNA-protein
-  contacts and application to lambda repressor and Cro protein.'
+  contacts and application to lambda repressor and Cro protein'
 subtitle: ''
 summary: ''
 authors:
 - Thomas D Tullius
 - B A Dombroski
 tags:
-- '"grant OH seq"'
-- '"TT talk"'
+- '"hydroxyl radical footprinting"'
 categories: []
 date: '1986-01-01'
-lastmod: 2020-10-21T20:42:07-04:00
+lastmod: 2020-10-27T15:44:36-04:00
 featured: false
 draft: false
 
@@ -31,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:07.602778Z'
+publishDate: '2020-10-27T19:44:36.114786Z'
 publication_types:
 - '2'
 abstract: A method has been developed for making \"footprints\" of proteins bound

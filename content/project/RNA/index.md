@@ -1,5 +1,5 @@
 ---
-date: ""
+date: "2020-10-27"
 external_link: ""
 image:
   caption:
@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/tomtullius
 slides: 
-summary: a chemical probe of RNA structure at single-atom resolution
+summary:
 tags:
 - RNA
 title: A chemical probe of RNA structure at single-atom resolution

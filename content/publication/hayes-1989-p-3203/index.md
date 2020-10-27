@@ -9,11 +9,10 @@ authors:
 - J J Hayes
 - Thomas D Tullius
 tags:
-- '"paper SRL"'
-- '"paper SRL NAR refs"'
+- '"missing nucleoside"'
 categories: []
 date: '1989-01-01'
-lastmod: 2020-10-21T20:42:05-04:00
+lastmod: 2020-10-27T15:44:34-04:00
 featured: false
 draft: false
 
@@ -31,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T00:42:05.796414Z'
+publishDate: '2020-10-27T19:44:34.176081Z'
 publication_types:
 - '2'
 abstract: We report a new technique for quickly determining which nucleosides in a
