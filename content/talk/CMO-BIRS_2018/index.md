@@ -14,7 +14,7 @@ event: Rules of Protein-DNA Recognition - Computational and Experimental Advance
 event_url: https://www.birs.ca/events/2018/5-day-workshops/18w5045
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**CMO-BIRS**](https://www.birs.ca/events/2018/5-day-workshops/18w5045)'
   focal_point: Right
 links:
 - icon: twitter
@@ -37,13 +37,6 @@ url_video: ""
 ---
 
 {{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click on the **Play** button below to view the video of the talk.
 {{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+{{< video library="true" src="BIRS_Tullius.mp4" controls="yes" >}}
